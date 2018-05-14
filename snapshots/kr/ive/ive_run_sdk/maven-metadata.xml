@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kr.ive</groupId>
+  <artifactId>ive_run_sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180514101827</lastUpdated>
+  </versioning>
+</metadata>
